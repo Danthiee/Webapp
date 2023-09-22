@@ -1,5 +1,5 @@
 import './App.css';
-import hello from 'D:/Hoa.jpg';
+import hello from 'D:/meo.jpg';
 
 function App() {
   return (
