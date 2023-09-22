@@ -1,11 +1,11 @@
-import './App.test';
-import hello from 'D:/meo.jpg';
+import logo from './logo.svg';
+import meo from './meo.jpg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <img src={hello} alt="hello" />
+      <img src={meo} alt="hello" />
         <p>
           HELLO WORLD!
         </p>
